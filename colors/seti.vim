@@ -112,3 +112,7 @@ hi cssClassName                 ctermfg=74    ctermbg=NONE  cterm=NONE          
 hi cssValueLength               ctermfg=167   ctermbg=NONE  cterm=NONE          guifg=#cd3f45   guibg=NONE      gui=NONE
 hi cssCommonAttr                ctermfg=167   ctermbg=NONE  cterm=NONE          guifg=#cd3f45   guibg=NONE      gui=NONE
 hi cssBraces                    ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
+
+hi SignifySignAdd               ctermfg=188   ctermbg=64    cterm=bold          guifg=#d4d7d6   guibg=#9fca56   gui=bold
+hi SignifySignDelete            ctermfg=88    ctermbg=NONE  cterm=NONE          guifg=#d4d7d6   guibg=#cd3f45   gui=NONE
+hi SignifySignChange            ctermfg=188   ctermbg=23    cterm=NONE          guifg=#d4d7d6   guibg=#4fa5c7   gui=NONE
