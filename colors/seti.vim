@@ -36,7 +36,7 @@ hi Conditional                  ctermfg=149   ctermbg=NONE  cterm=NONE          
 hi Constant                     ctermfg=167   ctermbg=NONE  cterm=NONE          guifg=#cd3f45   guibg=NONE      gui=NONE
 hi Define                       ctermfg=149   ctermbg=NONE  cterm=NONE          guifg=#9fca56   guibg=NONE      gui=NONE
 hi DiffAdd                      ctermfg=188   ctermbg=64    cterm=bold          guifg=#d4d7d6   guibg=#9fca56   gui=bold
-hi DiffDelete                   ctermfg=88    ctermbg=NONE  cterm=NONE          guifg=#cd3f45   guibg=NONE      gui=NONE
+hi DiffDelete                   ctermfg=88    ctermbg=NONE  cterm=NONE          guifg=#d4d7d6   guibg=#cd3f45   gui=NONE
 hi DiffChange                   ctermfg=188   ctermbg=23    cterm=NONE          guifg=#d4d7d6   guibg=#4fa5c7   gui=NONE
 hi DiffText                     ctermfg=188   ctermbg=24    cterm=bold          guifg=#d4d7d6   guibg=#204a87   gui=bold
 hi ErrorMsg                     ctermfg=231   ctermbg=NONE  cterm=NONE          guifg=#f8f8f8   guibg=NONE      gui=NONE
