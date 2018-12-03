@@ -14,7 +14,7 @@ hi Cursor                       ctermfg=16    ctermbg=222   cterm=NONE          
 hi Visual                       ctermfg=NONE  ctermbg=74    cterm=NONE          guifg=NONE      guibg=#4fa5c7   gui=NONE
 " CursorLine
 "
-" Priginal CursorLine
+" Original CursorLine
 " hi CursorLine                   ctermfg=NONE  ctermbg=235   cterm=NONE          guifg=NONE      guibg=#282a2b   gui=NONE
 "
 " More subtle CursorLine
