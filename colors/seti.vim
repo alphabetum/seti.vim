@@ -18,7 +18,7 @@ hi Visual                       ctermfg=NONE  ctermbg=74    cterm=NONE          
 " hi CursorLine                   ctermfg=NONE  ctermbg=235   cterm=NONE          guifg=NONE      guibg=#282a2b   gui=NONE
 "
 " More subtle CursorLine
-hi CursorLine                   ctermfg=NONE  ctermbg=235   cterm=NONE          guifg=NONE      guibg=#181C1D   gui=NONE
+hi CursorLine                   ctermfg=NONE  ctermbg=235   cterm=NONE          guifg=NONE      guibg=#1b2021   gui=NONE
 hi CursorColumn                 ctermfg=NONE  ctermbg=235   cterm=NONE          guifg=NONE      guibg=#282a2b   gui=NONE
 hi ColorColumn                  ctermfg=NONE  ctermbg=235   cterm=NONE          guifg=NONE      guibg=#282a2b   gui=NONE
 hi LineNr                       ctermfg=243   ctermbg=235   cterm=NONE          guifg=#757777   guibg=#282a2b   gui=NONE
